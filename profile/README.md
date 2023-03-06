@@ -1,24 +1,30 @@
+
+<h2 align="center" style="border-bottom: none">🐍 Python Smart Contracts for Cardano 🐍</h2>
+
+## 🚀 Getting Started
+
+Looking for getting started with building on Cardano? [Eopsin](https://github.com/ImperatorLang/eopsin) is a simple programming language for Smart Contracts based on python. It lets you compile, build and deploy Smart Contracts in minutes. ImperatorLang provides you with additional tooling to get started right away.
+
+## 🤓 Community
+
+Dive right into the community discussions on [eopsins discussions page](https://github.com/ImperatorLang/eopsin/discussions). Share your ideas, post questions and become part of the community.
+
+## ✨ Discover
+
+This Github organization references all core projects related to Eopsin.
+
+- The [eopsin](https://github.com/ImperatorLang/eopsin) repository contains the main tools for compiling and building contracts. It also contains a number of real examples.
+
+- The [eopsin-example](https://github.com/ImperatorLang/eopsin-example) repository contains a simple repository you can fork and clone to get building right away.
+
+Eopsin is based on Python and probably already supported by your favorite IDE! Get comfy and choose your weapons to get started.
+
+## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/twitter.svg" height="32" /> Follow us
+
+Follow us on Twitter [@ImperatorLang](https://twitter.com/ImperatorLang) for updates and announcements regarding the journey of ImperatorLang.
+
+### Supporters
+
+<a href="https://github.com/MuesliSwapTeam/"><img  src="https://avatars.githubusercontent.com/u/91151317?v=4" width="50" /></a>
+<a href="https://github.com/AadaFinance/"><img  src="https://avatars.githubusercontent.com/u/89693711?v=4" width="50" /></a>
  
-ImperatorLang aims at simplifying development on Cardano.
-The primary focus is on Smart Contracts.
-
-
-The main product of ImperatorLang is [eopsin](https://github.com/ImperatorLang/eopsin), 
-a Smart Contract language for Cardano that is based on Python. 🐍
-It aims to be simple to understand and use and should get developers on track fast.
-Check out [eopsin-example](https://github.com/ImperatorLang/eopsin-example) for an example project setup. 
-
-A side product of this is [hebi](https://github.com/ImperatorLang/hebi), an optimized but more inconvenient version
-of eopsin. Use it if you aim for performance and highly complex projects.
-
-Also ImperatorLang provides a number of tools for building things with UPLC, the Cardano Smart Contract "assembly".
-For this, the projects [pluthon](https://github.com/ImperatorLang/pluthon) and [uplc](https://github.com/ImperatorLang/uplc)
-provide intermediate and final representations of Cardano Smart Contracts on lower language levels.
-They also allow modification of existing on-chain code from other sources in Python.
-
-Finally ImperatorLang provides some ecosystem tooling. [plutonomy-cli](https://github.com/ImperatorLang/plutonomy-cli)
-is a generic CLI for optimizing smart contracts.
-[plutus-bench](https://github.com/ImperatorLang/plutus-bench) is a unified benchmarking tool for different Smart Contract languages,
-showing how everything beats PlutusTx to the race.
-
-If you have any questions, feel free to reach out on [Twitter](https://twitter.com/ImperatorLang) or through [GitHub](https://github.com/ImperatorLang/eopsin/discussions).
