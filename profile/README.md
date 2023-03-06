@@ -1,11 +1,11 @@
 # ImperatorLang
 
-Welcome to the project page of ImperatorLang
+Welcome to the project page of ImperatorLang! 👋 
 
 ImperatorLang is a project that aims at simplifying development on Cardano.
 The primary focus is on Smart Contracts.
 The main product of ImperatorLang is [eopsin](https://github.com/ImperatorLang/eopsin), 
-a Smart Contract language for Cardano that is based on Python.
+a Smart Contract language for Cardano that is based on Python. 🐍
 It aims to be simple to understand and use and should get developers on track fast.
 Check out [eopsin-example](https://github.com/ImperatorLang/eopsin-example) for an example project setup. 
 
