@@ -4,8 +4,6 @@
 
 Looking for getting started with building on Cardano? [Eopsin](https://github.com/OpShin/eopsin) is a simple programming language for Smart Contracts based on python. It lets you compile, build and deploy Smart Contracts in minutes. OpShin provides you with additional tooling to get started right away.
 
-<h5 align="center" style="border-bottom: none">🐍 Python Smart Contracts for Cardano 🐍</h2>
-
 
 ## 🤓 Community
 
