@@ -28,6 +28,6 @@ Follow us on Twitter [@OpShinDev](https://twitter.com/OpShinDev) for updates and
 
 ### Supporters
 
-<a href="https://github.com/inversion-dev"><img src="https://avatars.githubusercontent.com/u/127298233?s=200&v=4" width="50></a>
+<a href="https://github.com/inversion-dev/"><img src="https://avatars.githubusercontent.com/u/127298233?s=200&v=4" width="50"></a>
 <a href="https://github.com/MuesliSwapTeam/"><img  src="https://avatars.githubusercontent.com/u/91151317?v=4" width="50" /></a>
 <a href="https://github.com/AadaFinance/"><img  src="https://avatars.githubusercontent.com/u/89693711?v=4" width="50" /></a>
