@@ -3,11 +3,11 @@
 
 ## 🚀 Getting Started
 
-Looking for getting started with building on Cardano? [Eopsin](https://github.com/ImperatorLang/eopsin) is a simple programming language for Smart Contracts based on python. It lets you compile, build and deploy Smart Contracts in minutes. ImperatorLang provides you with additional tooling to get started right away.
+Looking for getting started with building on Cardano? [Eopsin](https://github.com/OpShin/eopsin) is a simple programming language for Smart Contracts based on python. It lets you compile, build and deploy Smart Contracts in minutes. OpShin provides you with additional tooling to get started right away.
 
 ## 🤓 Community
 
-Dive right into the community discussions on [eopsins discussions page](https://github.com/ImperatorLang/eopsin/discussions). Share your ideas, post questions and become part of the community.
+Dive right into the community discussions on [eopsins discussions page](https://github.com/OpShin/eopsin/discussions). Share your ideas, post questions and become part of the community.
 
 You can also chat with other developers in the welcoming discord
 server hosted by TxPipe at https://discord.gg/2ETSZnQQH9
@@ -16,18 +16,18 @@ server hosted by TxPipe at https://discord.gg/2ETSZnQQH9
 
 This Github organization references all core projects related to Eopsin.
 
-- The [eopsin](https://github.com/ImperatorLang/eopsin) repository contains the main tools for compiling and building contracts. It also contains a number of real examples.
+- The [eopsin](https://github.com/OpShin/eopsin) repository contains the main tools for compiling and building contracts. It also contains a number of real examples.
 
-- The [eopsin-example](https://github.com/ImperatorLang/eopsin-example) repository contains a simple repository you can fork and clone to get building right away.
+- The [eopsin-example](https://github.com/OpShin/eopsin-example) repository contains a simple repository you can fork and clone to get building right away.
 
 Eopsin is based on Python and probably already supported by your favorite IDE! Get comfy and choose your weapons to get started.
 
 ## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/twitter.svg" height="32" /> Follow us
 
-Follow us on Twitter [@ImperatorLang](https://twitter.com/ImperatorLang) for updates and announcements regarding the journey of ImperatorLang.
+Follow us on Twitter [@OpShinDev](https://twitter.com/OpShinDev) for updates and announcements regarding the journey of OpShin.
 
 ### Supporters
 
-<a href="https://github.com/AadaFinance/"><img  src="https://avatars.githubusercontent.com/u/89693711?v=4" width="50" /></a>
+<a href="https://github.com/inversion-dev"><img src="https://avatars.githubusercontent.com/u/127298233?s=200&v=4" width="50></a>
 <a href="https://github.com/MuesliSwapTeam/"><img  src="https://avatars.githubusercontent.com/u/91151317?v=4" width="50" /></a>
 <a href="https://github.com/AadaFinance/"><img  src="https://avatars.githubusercontent.com/u/89693711?v=4" width="50" /></a>
