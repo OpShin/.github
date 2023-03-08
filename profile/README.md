@@ -9,7 +9,7 @@ Looking for getting started with building on Cardano? [Eopsin](https://github.co
 
 Dive right into the community discussions on [eopsins discussions page](https://github.com/OpShin/eopsin/discussions). Share your ideas, post questions and become part of the community.
 
-You can also chat with other developers [in the welcoming discord
+You can also chat with other developers in the [welcoming discord
 community of Op-Shin](https://discord.gg/2ETSZnQQH9)
 
 ## ✨ Discover
