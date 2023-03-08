@@ -9,6 +9,9 @@ Looking for getting started with building on Cardano? [Eopsin](https://github.co
 
 Dive right into the community discussions on [eopsins discussions page](https://github.com/ImperatorLang/eopsin/discussions). Share your ideas, post questions and become part of the community.
 
+You can also chat with other developers in the welcoming discord
+server hosted by TxPipe at https://discord.gg/2ETSZnQQH9
+
 ## ✨ Discover
 
 This Github organization references all core projects related to Eopsin.
