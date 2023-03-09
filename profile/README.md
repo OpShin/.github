@@ -16,11 +16,18 @@ community](https://discord.gg/7qtTz82TYe).
 
 This Github organization references all core projects related to Eopsin.
 
-- The [eopsin](https://github.com/OpShin/eopsin) repository contains the main tools for compiling and building contracts. It also contains a number of real examples.
-
+- The [eopsin](https://github.com/OpShin/eopsin) repository contains the main tools for compiling and building contracts. It also contains a number of real world examples.
+- The [eopsin-pioneer-program](https://github.com/OpShin/eopsin-pioneer-program) contains a host of educational example smart contracts and provides a gentle introduction to writing contracts with eopsin.
 - The [eopsin-example](https://github.com/OpShin/eopsin-example) repository contains a simple repository you can fork and clone to get building right away.
 
 Eopsin is based on Python and probably already supported by your favorite IDE! Get comfy and choose your weapons to get started.
+
+More recommendations include
+
+- [hebi](https://github.com/OpShin/hebi), the small sister project of eopsin with significantly improved performance (at the cost of more restrictiveness)
+- [plutus-bench](https://github.com/OpShin/plutus-bench), a comprehensive unified framework to compare the performance of Smart Contract languages
+- [uplc](https://github.com/OpShin/uplc), a python package for manipulating Untyped Plutus Language Core
+- [plutonomy-cli](https://github.com/OpShin/plutonomy-cli), a general purpose smart contract optimizer
 
 ## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/twitter.svg" height="32" /> Follow us
 
