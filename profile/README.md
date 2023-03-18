@@ -2,29 +2,29 @@
 
 ## 🚀 Getting Started
 
-Looking for getting started with building on Cardano? [Eopsin](https://github.com/OpShin/eopsin) is a simple programming language for Smart Contracts based on python. It lets you compile, build and deploy Smart Contracts in minutes. OpShin provides you with additional tooling to get started right away.
+Looking for getting started with building on Cardano? [Opshin](https://github.com/OpShin/opshin) is a simple programming language for Smart Contracts based on python. It lets you compile, build and deploy Smart Contracts in minutes. OpShin provides you with additional tooling to get started right away.
 
 
 ## 🤓 Community
 
-Dive right into the community discussions on [eopsins discussions page](https://github.com/OpShin/eopsin/discussions). Share your ideas, post questions and become part of the community.
+Dive right into the community discussions on [opshins discussions page](https://github.com/OpShin/opshin/discussions). Share your ideas, post questions and become part of the community.
 
 You can also chat with other developers in the OpShin Den, our [welcoming discord
 community](https://discord.gg/umR3A2g4uw).
 
 ## ✨ Discover
 
-This Github organization references all core projects related to Eopsin.
+This Github organization references all core projects related to opshin.
 
-- The [eopsin](https://github.com/OpShin/eopsin) repository contains the main tools for compiling and building contracts. It also contains a number of real world examples.
-- The [eopsin-pioneer-program](https://github.com/OpShin/eopsin-pioneer-program) contains a host of educational example smart contracts and provides a gentle introduction to writing contracts with eopsin.
-- The [eopsin-example](https://github.com/OpShin/eopsin-example) repository contains a simple repository you can fork and clone to get building right away.
+- The [opshin](https://github.com/OpShin/opshin) repository contains the main tools for compiling and building contracts. It also contains a number of real world examples.
+- The [opshin-pioneer-program](https://github.com/OpShin/opshin-pioneer-program) contains a host of educational example smart contracts and provides a gentle introduction to writing contracts with opshin.
+- The [opshin-example](https://github.com/OpShin/opshin-example) repository contains a simple repository you can fork and clone to get building right away.
 
-Eopsin is based on Python and probably already supported by your favorite IDE! Get comfy and choose your weapons to get started.
+OpShin is based on Python and probably already supported by your favorite IDE! Get comfy and choose your weapons to get started.
 
 More recommendations include
 
-- [hebi](https://github.com/OpShin/hebi), the small sister project of eopsin with significantly improved performance (at the cost of more restrictiveness)
+- [hebi](https://github.com/OpShin/hebi), the small sister project of opshin with significantly improved performance (at the cost of more restrictiveness)
 - [plutus-bench](https://github.com/OpShin/plutus-bench), a comprehensive unified framework to compare the performance of Smart Contract languages
 - [uplc](https://github.com/OpShin/uplc), a python package for manipulating Untyped Plutus Language Core
 - [plutonomy-cli](https://github.com/OpShin/plutonomy-cli), a general purpose smart contract optimizer
