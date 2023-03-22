@@ -18,7 +18,7 @@ This Github organization references all core projects related to opshin.
 
 - The [opshin](https://github.com/OpShin/opshin) repository contains the main tools for compiling and building contracts. It also contains a number of real world examples.
 - The [opshin-pioneer-program](https://github.com/OpShin/opshin-pioneer-program) contains a host of educational example smart contracts and provides a gentle introduction to writing contracts with opshin.
-- The [opshin-example](https://github.com/OpShin/opshin-example) repository contains a simple repository you can fork and clone to get building right away.
+- The [opshin-starter-kit](https://github.com/OpShin/opshin-starter-kit) repository contains a simple repository you can fork and clone to get building right away.
 
 OpShin is based on Python and probably already supported by your favorite IDE! Get comfy and choose your weapons to get started.
 
