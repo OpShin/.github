@@ -9,7 +9,7 @@ Looking for getting started with building on Cardano? [Opshin](https://github.co
 
 Dive right into the community discussions on [opshins discussions page](https://github.com/OpShin/opshin/discussions). Share your ideas, post questions and become part of the community.
 
-You can also chat with other developers in the OpShin Den, our [welcoming discord
+You can also chat with other developers in the OpShin Den, our [welcoming ![discord](https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/discord.svg)
 community](https://discord.gg/umR3A2g4uw).
 
 ## ✨ Discover
