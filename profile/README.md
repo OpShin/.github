@@ -1,5 +1,15 @@
 ![Banner of OpShin - Build without Limits](https://media.discordapp.net/attachments/1082803447973302332/1083155394370748597/Banner_447-2.jpg?width=1440&height=480)
 
+<div align="center">
+  <a href="https://discord.com/invite/umR3A2g4uw">
+    <img src="https://dcbadge.vercel.app/api/server/umR3A2g4uw?style=flat&theme=default-inverted&compact=true"/>
+  </a>
+    <img src="https://img.shields.io/badge/follow-%40OpShin-white?logo=github"/>
+  <a href="https://twitter.com/OpShinDev">
+    <img src="https://img.shields.io/badge/follow-%40OpShinDev-1d9bf0?logo=twitter"/>
+  </a>
+ </div>
+
 ## 🚀 Getting Started
 
 Looking for getting started with building on Cardano? [Opshin](https://github.com/OpShin/opshin) is a simple programming language for Smart Contracts based on python. It lets you compile, build and deploy Smart Contracts in minutes. OpShin provides you with additional tooling to get started right away.
