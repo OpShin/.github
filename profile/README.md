@@ -10,30 +10,32 @@
   </a>
  </div>
 
-## 🚀 Getting Started
-
 Looking for getting started with building on Cardano? [Opshin](https://github.com/OpShin/opshin) is a simple programming language for Smart Contracts based on python. It lets you compile, build and deploy Smart Contracts in minutes. OpShin provides you with additional tooling to get started right away.
 
 
-## 🤓 Community
+## ![discord](https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/discord.svg) Community
 
 Dive right into the community discussions on [opshins discussions page](https://github.com/OpShin/opshin/discussions). Share your ideas, post questions and become part of the community.
 
-You can also chat with other developers in the OpShin Den, our [welcoming ![discord](https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/discord.svg)
-community](https://discord.gg/umR3A2g4uw).
+You can also chat with other developers in the OpShin Den, our [welcoming discord community](https://discord.gg/umR3A2g4uw).
+
+## ![youtube](https://img.icons8.com/color/30/null/youtube-play.png) Learn
+
+- This [webinar](https://www.youtube.com/watch?v=S-GgkDsUBpQ) hosted together with Emurgo Academy that gives a simple overview over the language and toolchain OpShin.
+- The [opshin-book](https://opshin.dev) provides you with a gentle introduction to developing smart contracts using Python and OpShin.
+- The [opshin-pioneer-program](https://github.com/OpShin/opshin-pioneer-program) contains a host of educational example smart contracts and provides a gentle introduction to writing contracts with opshin.
+
+## 🚀 Build
+
+
+- The [opshin-starter-kit](https://github.com/OpShin/opshin-starter-kit) repository contains a simple repository you can fork and clone to get building right away.
+- The [opshin](https://github.com/OpShin/opshin) repository contains the main tools for compiling and building contracts. It also contains a number of real world examples.
 
 ## ✨ Discover
 
-This Github organization references all core projects related to opshin.
-
-- The [opshin-book](https://opshin.dev) provides you with a gentle introduction to developing smart contracts using Python and OpShin.
-- The [opshin](https://github.com/OpShin/opshin) repository contains the main tools for compiling and building contracts. It also contains a number of real world examples.
-- The [opshin-pioneer-program](https://github.com/OpShin/opshin-pioneer-program) contains a host of educational example smart contracts and provides a gentle introduction to writing contracts with opshin.
-- The [opshin-starter-kit](https://github.com/OpShin/opshin-starter-kit) repository contains a simple repository you can fork and clone to get building right away.
-
-
 OpShin is based on Python and probably already supported by your favorite IDE! Get comfy and choose your weapons to get started.
 
+This Github organization references all core projects related to opshin.
 More recommendations include
 
 - [hebi](https://github.com/OpShin/hebi), the small sister project of opshin with significantly improved performance (at the cost of more restrictiveness)
