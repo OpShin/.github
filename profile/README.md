@@ -19,6 +19,8 @@ Dive right into the community discussions on [opshins discussions page](https://
 
 You can also chat with other developers in the OpShin Den, our [welcoming discord community](https://discord.gg/umR3A2g4uw).
 
+We also collect community created resources concerning OpShin in the [awesome-opshin](https://github.com/OpShin/awesome-opshin/) repository.
+
 ## ![youtube](https://img.icons8.com/color/30/null/youtube-play.png) Learn
 
 - This [webinar](https://www.youtube.com/watch?v=S-GgkDsUBpQ) hosted together with Emurgo Academy that gives a simple overview over the language and toolchain OpShin.
