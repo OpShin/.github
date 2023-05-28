@@ -32,6 +32,7 @@ We also collect community created resources concerning OpShin in the [awesome-op
 
 - The [opshin-starter-kit](https://github.com/OpShin/opshin-starter-kit) repository contains a simple repository you can fork and clone to get building right away.
 - The [opshin](https://github.com/OpShin/opshin) repository contains the main tools for compiling and building contracts. It also contains a number of real world examples.
+- [awesome-opshin](https://github.com/OpShin/awesome-opshin/) contains community created resources regarding development on OpShin
 
 ## ✨ Discover
 
