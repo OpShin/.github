@@ -58,4 +58,12 @@ Follow us on Twitter [@OpShinDev](https://twitter.com/OpShinDev) for updates and
 <a href="https://github.com/AadaFinance/"><img  src="https://avatars.githubusercontent.com/u/89693711?v=4" width="50" /></a>
 <a href="https://github.com/kreate-community/"><img  src="https://avatars.githubusercontent.com/u/118675270?v=4" width="50" /></a>
 
+The main sponsor of this project is Inversion. Here is a word from them!
+
+> At Inversion, we pride ourselves on our passion for life and our ability to create exceptional software solutions for our clients. Our team of experts, with over a century of cumulative experience, is dedicated to harnessing the power of the Cardano blockchain to bring innovative and scalable decentralized applications to life. We've successfully built applications for NFT management, staking and delegation, chain data monitoring, analytics, and web3 integrations, as well as countless non-blockchain systems. With a focus on security, transparency, and sustainability, our team is excited to contribute to the Cardano ecosystem, pushing the boundaries of decentralized technologies to improve lives worldwide. Trust Inversion to be your go-to partner for robust, effective, and forward-thinking solutions, whether blockchain based, traditional systems, or a mix of the two.
+
+They have recently started a podcast, called "Africa On Chain", which you can check out here: https://www.youtube.com/@africaonchain
+
 Sponsor this project through [Patreon](https://www.patreon.com/OpShin).
+
+
