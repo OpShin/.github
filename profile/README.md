@@ -26,8 +26,8 @@ We also collect community created resources concerning OpShin in the [awesome-op
 
 ## ![youtube](https://img.icons8.com/color/30/null/youtube-play.png) Learn
 
-- This [webinar](https://www.youtube.com/watch?v=S-GgkDsUBpQ) hosted together with Emurgo Academy that gives a simple overview over the language and toolchain OpShin.
 - The [opshin-book](https://book.opshin.dev) provides you with a gentle introduction to developing smart contracts using Python and OpShin.
+- This [webinar](https://www.youtube.com/watch?v=S-GgkDsUBpQ) hosted together with Emurgo Academy that gives a simple overview over the language and toolchain OpShin.
 - The [opshin-pioneer-program](https://github.com/OpShin/opshin-pioneer-program) contains a host of educational example smart contracts and provides a gentle introduction to writing contracts with opshin.
 
 ## 🚀 Build
