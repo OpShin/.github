@@ -44,7 +44,6 @@ OpShin is based on Python and probably already supported by your favorite IDE! G
 This Github organization references all core projects related to opshin.
 More recommendations include
 
-- [hebi](https://github.com/OpShin/hebi), the small sister project of opshin with significantly improved performance (at the cost of more restrictiveness)
 - [plutus-bench](https://github.com/OpShin/plutus-bench), a comprehensive unified framework to compare the performance of Smart Contract languages
 - [uplc](https://github.com/OpShin/uplc), a python package for manipulating Untyped Plutus Language Core
 - [plutonomy-cli](https://github.com/OpShin/plutonomy-cli), a general purpose smart contract optimizer
