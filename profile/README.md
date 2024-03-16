@@ -1,4 +1,4 @@
-![Banner of OpShin - Build without Limits](https://media.discordapp.net/attachments/1082803447973302332/1083155394370748597/Banner_447-2.jpg?width=1440&height=480)
+![Banner of OpShin - Build without Limits](https://raw.githubusercontent.com/OpShin/.github/main/profile/banner.jpg)
 
 <div align="center">
   <a href="https://discord.com/invite/umR3A2g4uw">
