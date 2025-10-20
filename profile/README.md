@@ -32,6 +32,11 @@ We also collect community created resources concerning OpShin in the [awesome-op
 - This [webinar](https://www.youtube.com/watch?v=S-GgkDsUBpQ) hosted together with Emurgo Academy that gives a simple overview over the language and toolchain OpShin.
 - The [opshin-pioneer-program](https://github.com/OpShin/opshin-pioneer-program) contains a host of educational example smart contracts and provides a gentle introduction to writing contracts with opshin.
 
+Further, we provide interactive tools to interact with OpShin and the underlying UPLC
+
+- The [playground](https://playground.opshin.dev) allows you to build small smart contracts from the comfort of your browser
+- The [uplc-viewer](https://uplc.opshin.dev) converts between different smart contract representations, allowing to inspect the lowest level of Cardano smart contracts
+
 ## 🚀 Build
 
 
